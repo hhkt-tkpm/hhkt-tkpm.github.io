@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhhkt_docs_tkpm=self.webpackChunkhhkt_docs_tkpm||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
