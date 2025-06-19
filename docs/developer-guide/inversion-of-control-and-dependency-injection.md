@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+---
+
+
 # Inversion of Control and Dependency Injection
 
 ## Introduction
