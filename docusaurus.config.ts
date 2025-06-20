@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Nhóm 14 - HHKT',
-  tagline: 'Thiết kế phần mềm',
+  title: 'Group 14 - HHKT',
+  tagline: 'Software Design',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -34,8 +34,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'vi',
-    locales: ['en', 'vi'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [

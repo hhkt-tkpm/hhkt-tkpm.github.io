@@ -32,7 +32,6 @@ This guide is your gateway to understanding, contributing, and mastering a robus
 
 - **Source Code:** [GitHub Repository](https://github.com/nguyen-anh-hao/HHKT-Ex-TKPM)
 - **API Explorer:** [Swagger UI](http://localhost:9000/swagger-ui)
-- **Frontend Architecture:** [See Details](./developer-guide/overview-of-architecture)
 - **Coding Standards:** [Read More](./developer-guide/conding-standards)
 
 ---
