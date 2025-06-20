@@ -287,3 +287,7 @@ src/test/java/org/example/backend/controller/
 ├── StudentStatusControllerTest.java
 └── [Other controller tests...]
 ```
+
+## 🖼️ Testing Result
+
+![Testing Framework Overview](../../static/img/testing.png)
