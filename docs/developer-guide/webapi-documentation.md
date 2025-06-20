@@ -1,20 +1,16 @@
 ---
-sidebar_position: 7
+sidebar_position: 12
 ---
 
-# 📚 API Documentation
+# API Documentation
 
 Welcome to the API documentation!  
 This API is described using the **OpenAPI 3.1** specification and can be explored interactively via Swagger UI.
-
----
 
 ## 🚀 Explore the API
 
 **Swagger UI:**  
 [http://localhost:9000/swagger-ui](http://localhost:9000/swagger-ui)
-
----
 
 ## 🖼️ Screenshots
 
@@ -37,8 +33,6 @@ Below are some screenshots of the Swagger UI and API documentation:
 ![](../../static/img/swagger-image/image-5.png)
 
 ![](../../static/img/swagger-image/image-4.png)
-
----
 
 ## 🔗 API Endpoints
 
@@ -161,7 +155,3 @@ Below is a summary of the main API endpoints grouped by feature. Each table list
 | Method | Endpoint                            | Description                      |
 | ------ | ----------------------------------- | -------------------------------- |
 | POST   | `/api/class-registration-histories` | Add a class registration history |
-
----
-
-> For more details, refer to the full documentation or contact the development team.

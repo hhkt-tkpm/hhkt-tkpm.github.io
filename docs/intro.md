@@ -4,44 +4,40 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+> **Empowering Academic Excellence with Modern Software Engineering**
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+Welcome to the official documentation for the **Student Management System** project!  
+This guide is your gateway to understanding, contributing, and mastering a robust, scalable platform built for managing students, courses, faculties, and academic records.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 🚀 What You'll Find Here
 
-### What you'll need
+- **Project Vision & Goals:**  
+  Discover the mission and core values driving this system.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **Modern Architecture:**  
+  Explore a cutting-edge stack: Next.js 14, TypeScript, Spring Boot, PostgreSQL, and more.
 
-## Generate a new site
+- **Best Practices:**  
+  Learn our coding standards, validation strategies, and testing methodologies.
 
-Generate a new Docusaurus site using the **classic template**.
+- **Contribution Guide:**  
+  Step-by-step onboarding for new developers and contributors.
 
-The classic template will automatically be added to your project after you run the command:
+- **API & Feature Documentation:**  
+  Interactive OpenAPI docs, usage examples, and real-world scenarios.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## 🛠️ Quick Links
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- **Source Code:** [GitHub Repository](https://github.com/nguyen-anh-hao/HHKT-Ex-TKPM)
+- **API Explorer:** [Swagger UI](http://localhost:9000/swagger-ui)
+- **Frontend Architecture:** [See Details](./developer-guide/overview-of-architecture)
+- **Coding Standards:** [Read More](./developer-guide/conding-standards)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
+> **Ready to dive in?**  
+> Use the sidebar to navigate through architecture, development workflow, and contribution guidelines.  
+> Whether you're a new team member or a seasoned maintainer, this documentation will help you build, extend, and maintain the Student Management System with confidence.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
